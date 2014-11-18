@@ -28,7 +28,7 @@ a:visited {
 
 a:hover{
 	background: red;
-	
+
 
 }
 
@@ -55,6 +55,33 @@ section {
 	height: 50px;
 	width: 50px;
 }
+
+.color-1{
+	background: #663300;
+
+}
+
+.color-2{
+	background: #BE6A04;
+}
+
+.color-3{
+	background: #FCF8C2;
+}
+
+
+.pattern-1{
+	background: url("../img/footer_lodyas.png") 
+}
+.pattern-2{
+	background: url("../img/logo_x_pattern.png") 
+}
+
+.pattern-3{
+	background: url("../img/restaurant.png") 
+}
+
+
 
 
 /* Show Grid */
