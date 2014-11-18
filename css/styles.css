@@ -1,3 +1,38 @@
+/*Primaru Header*/
+
+h1{
+	font-family: 'Monoton', cursive;
+	color: #52E8E8;
+
+}
+
+/*Body Copy*/
+
+p{
+	font-family: 'Playball', cursive;
+	font-size: 32px;
+	color: #ccc;
+
+}
+
+/*Baseline Links*/
+
+a:link,
+a:visited {
+	border-bottom: dashed orange 2px ;
+	text-transform: uppercase;
+	text-decoration: none;
+
+
+}
+
+a:hover{
+	background: red;
+	
+
+}
+
+
 /* Set Your Own Margin & Padding */
 h2, h3, p {
 	margin: 0;
