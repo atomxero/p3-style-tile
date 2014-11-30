@@ -1,12 +1,26 @@
 /*Primaru Header*/
 
+html{ 
+  background: url("../img/beach-campfire-night.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
 h1{
 	font-family: 'Lobster', cursive;
 	color: #FA3E3E;
 
 }
+h2, h3{
+	font-family: 'Lato', sans-serif;
+	color: #f8f8d6;
+}
 
 /*Body Copy*/
+
 
 p{
 	font-family: 'Playball', cursive;
@@ -66,7 +80,7 @@ section {
 }
 
 .color-3{
-	background: #FCF8C2;
+	background: #333699;
 }
 
 
@@ -78,7 +92,7 @@ section {
 }
 
 .pattern-3{
-	background: url("../img/restaurant.png") 
+	background: url("../img/img_5737.jpg") 
 }
 
 
